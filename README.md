@@ -1,4 +1,11 @@
-[file:///home/claudio/Downloads/Como%20Criar%20uma%20Anima%C3%A7%C3%A3o%20com%20I.A.%20Gr%C3%A1tis%20(Tutorial%20Stable%20Diffusion%20e%20Google%20Colab).mp4.mp4](https://drive.google.com/file/d/1GT8h5K7KkcdAxDMh__Ar_eHzi8y-GRY_/view?usp=share_link)
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/4AAUud1CXdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
+
  
 ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
